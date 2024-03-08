@@ -1,13 +1,8 @@
-# <div align =center>  LLAMATA </div>
+# <div align =center>  Kor_LLM </div>
 ---
 
 
 
-
-
-## What is LLAMATA 
-
-LLM + MATA ( Vitruv )
 
 
 
@@ -15,7 +10,7 @@ LLM + MATA ( Vitruv )
 
 ## Goal of this project 
 
-- 해당 프로젝트의 목표는 Vitruv의 서비스에 Fit 한 LLM 을 만들기 위한 프로젝트입니다.
+- 해당 프로젝트의 목표는 한국의 다양한 down_stream domain에 Fit 한 LLM 을 만들기 위한 프로젝트입니다.
 
 
 
